@@ -20,6 +20,10 @@ public class CubeSpawnArray : MonoBehaviour {
 			clickedCube.GetComponent<Renderer> ().material.color = Color.red;
 		}
 		else if (airplane.activeAirplane && (x != airplane.x || y != airplane.y)) {
+			allCubes[airplane.x, airplane.y].GetComponent<Renderer>().material.color = Color.white;
+			allCubes[x,y].renGetComponent<Renderer>().derer.material.color = Color.yellow;
+			airplane.x = x;
+			airplane.y = y;
 		}
 
 	}
@@ -57,6 +61,6 @@ public class CubeSpawnArray : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 }
