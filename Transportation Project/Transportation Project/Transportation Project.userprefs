@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Transport 3D\Assets\CubeSpawnArray.cs">
+    <Files>
+      <File FileName="Transport 3D\Assets\CubeBehavior.cs" Line="1" Column="1" />
+      <File FileName="Transport 3D\Assets\CubeSpawnArray.cs" Line="69" Column="36" />
+      <File FileName="Transport 3D\Assets\Aiplane.cs" Line="4" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
